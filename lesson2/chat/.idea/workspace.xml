@@ -2,46 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e97a98ef-da27-45e5-acf5-acf226b3c408" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lesson1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_21_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson7_start.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/Lesson7/ClientMain$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/Lesson7/ClientMain$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/Lesson7/ClientMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/Lesson7/ServerMain$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/Lesson7/ServerMain$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/Lesson7/ServerMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/Test/AudioPlayerExample1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/Test/AudioPlayerExample1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/Test/MainDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/gb/client/Controller$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/gb/client/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/gb/client/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/gb/client/client.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/gb/server/AuthService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/gb/server/ClientHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/gb/server/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/gb/server/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sqlite-jdbc-3.21.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7/ClientMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7/ServerMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/AudioPlayerExample1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/MainDB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gb/client/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gb/client/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gb/client/client.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gb/server/AuthService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gb/server/ClientHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gb/server/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gb/server/Server.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/userTable.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/userTestDB.db" beforeDir="false" />
     </list>
     <ignored path="lesson7_start.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -78,7 +42,110 @@
     <favorites_list name="lesson7_start" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gb/server/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1720">
+              <caret line="90" column="30" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gb/server/AuthService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="562">
+              <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gb/client/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gb/server/ClientHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-338">
+              <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+              <folding>
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#462#463#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gb/client/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gb/server/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson7_start.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson7/ClientMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test/MainDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="860">
+              <caret line="82" column="31" lean-forward="true" selection-start-line="82" selection-start-column="31" selection-end-line="82" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/AudioPlayerExample1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -121,7 +188,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="170" />
     <option name="y" value="109" />
     <option name="width" value="1375" />
@@ -135,7 +202,54 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gb" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gb" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -625,6 +739,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16625917" />
       <window_info id="Structure" order="1" weight="0.25" />
