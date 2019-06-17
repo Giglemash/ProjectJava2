@@ -2,46 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e97a98ef-da27-45e5-acf5-acf226b3c408" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lesson1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_21_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson7_start.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/Lesson7/ClientMain$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/Lesson7/ClientMain$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/Lesson7/ClientMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/Lesson7/ServerMain$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/Lesson7/ServerMain$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/Lesson7/ServerMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/Test/AudioPlayerExample1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/Test/AudioPlayerExample1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/Test/MainDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/gb/client/Controller$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/gb/client/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/gb/client/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/gb/client/client.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/gb/server/AuthService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/gb/server/ClientHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/gb/server/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/gb/server/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sqlite-jdbc-3.21.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7/ClientMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7/ServerMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/AudioPlayerExample1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/MainDB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gb/client/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gb/client/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gb/client/client.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gb/server/AuthService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gb/server/ClientHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gb/server/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gb/server/Server.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/userTable.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/userTestDB.db" beforeDir="false" />
     </list>
     <ignored path="lesson7_start.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,14 +35,65 @@
     <select />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="lesson7_start" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/dbnavigator.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10420">
+              <caret line="521" column="16" selection-start-line="521" selection-start-column="16" selection-end-line="521" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/lesson2.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05062019/target/classes/Game/Hero.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-145">
+              <folding>
+                <element signature="e#0#985#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05062019/target/classes/Game/Assasin.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05062019/target/classes/Game/Warrior.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#696#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -121,9 +136,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="170" />
-    <option name="y" value="109" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="319" />
     <option name="width" value="1375" />
     <option name="height" value="913" />
   </component>
@@ -133,9 +153,56 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="codeStyles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="05062019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="05062019" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="05062019" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="05062019" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,6 +214,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29885057" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -522,40 +590,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -575,11 +609,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MainEx" />
       <item itemvalue="Application.AudioPlayerExample1" />
-      <item itemvalue="Application.MainDB" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.MainDB" />
+      <item itemvalue="Application.MainEx" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
@@ -624,15 +658,16 @@
     <option name="totallyTimeSpent" value="59089000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16625917" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17420538" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Image Layers" order="6" />
+      <window_info id="DB Browser" order="7" weight="0.32823962" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32980973" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39303482" />
@@ -645,7 +680,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32954547" />
       <window_info anchor="bottom" id="CheckStyle" order="11" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="DB Execution Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -655,6 +690,7 @@
       <window_info anchor="right" id="Database" order="6" visible="true" weight="0.15452538" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info active="true" anchor="right" id="Maven" order="9" visible="true" weight="0.3294621" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -674,109 +710,67 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Throwable.java" />
-    <entry file="file://$PROJECT_DIR$/src/gb/client/client.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="661">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gb/client/client.fxml" />
     <entry file="file://$PROJECT_DIR$/src/Test/Test.java" />
     <entry file="jar://E:/jdbc/sqlite-jdbc-3.21.0.1.jar!/org/sqlite/JDBC.class" />
     <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Class.java" />
     <entry file="file://$PROJECT_DIR$/src/Test/DemoClass.java" />
     <entry file="file://$PROJECT_DIR$/src/Test/MyException.java" />
     <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/sql/Connection.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson7/ServerMain.java">
+    <entry file="file://$PROJECT_DIR$/src/Lesson7/ServerMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson7/ClientMain.java" />
+    <entry file="file://$PROJECT_DIR$/lesson7_start.iml" />
+    <entry file="file://$PROJECT_DIR$/src/Test/AudioPlayerExample1.java" />
+    <entry file="file://$PROJECT_DIR$/src/gb/server/Server.java" />
+    <entry file="file://$PROJECT_DIR$/src/gb/server/ClientHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/gb/client/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/gb/client/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/gb/server/AuthService.java" />
+    <entry file="file://$PROJECT_DIR$/src/gb/server/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test/MainDB.java" />
+    <entry file="db://5b67e5aa-ec5d-4760-9386-9a75258f01bf/consoles/SQLite">
+      <provider selected="true" editor-type-id="0.CONSOLE">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dbnavigator.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-78">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="10420">
+          <caret line="521" column="16" selection-start-line="521" selection-start-column="16" selection-end-line="521" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05062019/target/classes/Game/Assasin.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05062019/target/classes/Game/Warrior.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#696#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson7/ClientMain.java">
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/lesson2.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05062019/target/classes/Game/Hero.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="-145">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#985#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7_start.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/AudioPlayerExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gb/server/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1720">
-          <caret line="90" column="30" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gb/server/ClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-338">
-          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
-          <folding>
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gb/client/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gb/client/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gb/server/AuthService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gb/server/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/MainDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="860">
-          <caret line="82" column="31" lean-forward="true" selection-start-line="82" selection-start-column="31" selection-end-line="82" selection-end-column="31" />
         </state>
       </provider>
     </entry>
