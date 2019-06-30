@@ -5,11 +5,6 @@ public class Students {
     private String surname;
     private int score;
 
-//    public Students(String surname,int score) {
-//        this.surname = surname;
-//        this.score = score;
-//    }
-
     public int getId() {
         return id;
     }

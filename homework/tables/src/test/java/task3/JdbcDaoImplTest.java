@@ -38,7 +38,7 @@ class JdbcDaoImplTest {
     void getStudentById() throws SQLException {
         List<Students> students = dao.getStudentById(1);
         String result = students.toString();
-        String expected = "[Студенты {id=1, Фамилия='Попов', Баллы=58}]";
+        String expected = "[Студенты {id=1, Фамилия='Иванов', Баллы=58}]";
         Assertions.assertEquals(expected, result);
     }
 
@@ -57,7 +57,7 @@ class JdbcDaoImplTest {
         dao.updateStudentScoreById(1, 11);
         List<Students> students = dao.getStudentById(1);
         String result = students.toString();
-        String expected = "[Студенты {id=1, Фамилия='Попов', Баллы=11}]";
+        String expected = "[Студенты {id=1, Фамилия='Иванов', Баллы=11}]";
         Assertions.assertEquals(expected, result);
         dao.updateStudentScoreById(1, 58);
     }
@@ -66,7 +66,7 @@ class JdbcDaoImplTest {
     void getStudentsBetweenScore () throws SQLException {
         List<Students> students = dao.getStudentsBetweenScore(50, 100);
         String result = students.toString();
-        String expected = "[Студенты {id=1, Фамилия='Попов', Баллы=58}, Студенты {id=3, Фамилия='Сергеев', Баллы=99}]";
+        String expected = "[Студенты {id=1, Фамилия='Иванов', Баллы=58}, Студенты {id=3, Фамилия='Кузнецов', Баллы=99}]";
         Assertions.assertEquals(expected, result);
 
     }

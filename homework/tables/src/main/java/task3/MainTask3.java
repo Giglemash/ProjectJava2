@@ -18,18 +18,13 @@ public class MainTask3 {
         try {
             Statement statement = connection.createStatement();
             statement.executeUpdate("DROP TABLE IF EXISTS Students;");
-            statement.execute("CREATE TABLE Students" +
-                    " ( " +
-                    "ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, " +
-                    "Surname TEXT NOT NULL, " +
-                    "Score INTEGER NOT NULL " +
-                    ");");
+            statement.execute(String.format("CREATE TABLE Students ( ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, Surname TEXT NOT NULL, Score INTEGER NOT NULL );"));
 
             // Удаляем все записи, добавляем студентов и выводим их в консоль
-            statement.executeUpdate("INSERT INTO Students (Surname, Score) values ('Попов', 58);");
-            statement.executeUpdate("INSERT INTO Students (Surname, Score) values ('Винокуров', 10);");
-            statement.executeUpdate("INSERT INTO Students (Surname, Score) values ('Сергеев', 99);");
-            statement.executeUpdate("INSERT INTO Students (Surname, Score) values ('Магомедов', 34);");
+            statement.executeUpdate("INSERT INTO Students (Surname, Score) values ('Иванов', 58);");
+            statement.executeUpdate("INSERT INTO Students (Surname, Score) values ('Смирнов', 10);");
+            statement.executeUpdate("INSERT INTO Students (Surname, Score) values ('Кузнецов', 99);");
+            statement.executeUpdate("INSERT INTO Students (Surname, Score) values ('Попов', 34);");
             List<Students> itemsAll = dao.getAllStudents();
             itemsAll.forEach(System.out::println);
         } finally {
